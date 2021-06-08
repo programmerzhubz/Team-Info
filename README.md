@@ -1,5 +1,5 @@
 <h1>&#x1F4BB;TEAM PROGRAMMING &#x1F4BB;</h1>
-<p>Hi everyone, we are fully utilising this platform to strong our programming knowledge and build very useful portfolios.</p>
+<p>Hi everyone, we are fully utilising this platform to sharpen our programming knowledge and build very useful portfolios.</p>
 
 <h2>Main Software Developers</h2>
 <ul>
